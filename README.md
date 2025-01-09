@@ -2,8 +2,8 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- <b>Azure cybersecurity projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Azure cloud cybersecurity projects</b>
+  - [cloud project](https://github.com/spacewalke/Azure_SOC)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
